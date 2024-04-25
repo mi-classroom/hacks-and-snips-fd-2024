@@ -14,5 +14,6 @@
 
 #### fd-html-und-css-cosimazink
 - insgesamt schon ziemlich weit gekommen bei der Layoutumsetzung
+- sehr aufgeräumtes CSS
 - flex box für navbar in `header` verwendet
 - aber flex Eigenschaft bei `.item` funktioniert nicht, da umschließendes Element kein `display:flex` hat.
